@@ -45,7 +45,7 @@ Check docker version:
  # docker version
 ```
 ```ruby
-_root@touting1:~# docker version
+root@touting1:~# docker version
 Client: Docker Engine - Community
  Version:           19.03.4
  API version:       1.40
@@ -73,7 +73,7 @@ Server: Docker Engine - Community
  docker-init:
   Version:          0.18.0
   GitCommit:        fec3683
-root@touting1:~#_
+root@touting1:~#
 ```
 
 At this time docker is up and running, let's do some testing now to make sure everything is all good.
