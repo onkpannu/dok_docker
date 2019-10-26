@@ -76,6 +76,7 @@ Check docker version:
 > root@touting1:~#
 ```
 
+
 At this time docker is up and running, let's do some testing now to make sure everything is all good.
 
 List locally availabe docker images (should be none for new install):
