@@ -1,16 +1,16 @@
 # Install Docker on Ubuntu 18.04
 
-1. apt update
+Apt update
 ```markdown
-sudo apt-get update
+  sudo apt-get update
 ```
 
-2. Remove old version of docker
+Remove old version of docker
 ```markdown
-apt-get remove docker docker-engine docker.io
+  apt-get remove docker docker-engine docker.io
 ```
 
-3. Add the key
+Add the key
 ```markdown
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 ```
