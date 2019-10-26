@@ -44,7 +44,7 @@ Check docker version:
 ```markdown
  # docker version
 ```
-```ruby
+```
 > root@touting1:~# docker version
 > Client: Docker Engine - Community
 >  Version:           19.03.4
