@@ -45,6 +45,7 @@ Check docker version:
  # docker version
 ```
 ```
+<p>
 > root@touting1:~# docker version
 > Client: Docker Engine - Community
 >  Version:           19.03.4
@@ -74,7 +75,7 @@ Check docker version:
 >   Version:          0.18.0
 >   GitCommit:        fec3683
 > root@touting1:~#
-```
+</p>
 
 
 At this time docker is up and running, let's do some testing now to make sure everything is all good.
