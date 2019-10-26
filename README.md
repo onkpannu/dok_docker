@@ -4,7 +4,7 @@
 ```markdown
 sudo apt-get update
 ```
-<br>
+
 1. Remove old version of docker
 ```markdown
 apt-get remove docker docker-engine docker.io
