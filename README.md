@@ -5,17 +5,17 @@
 sudo apt-get update
 ```
 
-1. Remove old version of docker
+2. Remove old version of docker
 ```markdown
 apt-get remove docker docker-engine docker.io
 ```
 
-1. Add the key
+3. Add the key
 ```markdown
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 ```
 
-1. Add the repo
+4. Add the repo
 ```markdown
 sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
 ```
