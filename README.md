@@ -2,7 +2,7 @@
 
 Apt update:
 ```markdown
- # sapt-get update
+ # apt-get update
 ```
 
 Remove the old version of docker:
