@@ -5,7 +5,7 @@ Apt update :
  sudo apt-get update
 ```
 
-Remove old version of docker
+Remove the old version of docker :
 ```markdown :
   apt-get remove docker docker-engine docker.io
 ```
