@@ -1,3 +1,7 @@
+---
+layout: default
+title: Hello World in Python
+---
 # Install Docker on Ubuntu 18.04
 
 Apt update
